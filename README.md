@@ -256,7 +256,7 @@ I believe consistent progress is more valuable than trying to become an expert o
 
 🤝 Connect With Me
 
-<div align="center">  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/anand-kumar-muppirisetty-884a59315?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<div align="center">  <a href="anand-kumar-muppirisetty-884a59315&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  <a href="mailto:anandkumar.muppirisetty@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
